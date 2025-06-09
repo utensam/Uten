@@ -26,6 +26,7 @@ I'm a passionate Salesforce Administrator with a growing skill set in CRM platfo
 
 ![Company Info Screenshot](https://github.com/utensam/Uten/blob/main/Salesforce-Project-Company-Information.png)
 ![Company Price Book Screenshot](https://github.com/utensam/Uten/blob/main/Salesforce-Project-Price%20B.png)
+![Company Dashboards Screenshot](https://github.com/utensam/Uten/blob/main/Salesforce-project-Darshb.png)
 This showcases:
 - Setting up company info
 - Creating dashboards for sales insights
