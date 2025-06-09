@@ -16,11 +16,23 @@ I'm a passionate Salesforce Administrator with a growing skill set in CRM platfo
 
 ### CRM Tools
 - Salesforce (Admin)
-https://github.com/utensam/Uten/blob/main/Salesforce-Project-Company-Information.png
 - HubSpot
 - Zoho CRM
 - Slack
 - Pipedrive
+## 📸 Projects
+
+### Salesforce Admin Practice Project
+
+![Company Info Screenshot](https://github.com/utensam/Uten/blob/main/Salesforce-Project-Company-Information.png)
+
+This project showcases my practice with:
+- Setting up company info
+- Creating dashboards for sales insights
+- Building automation using Flow Builder
+- Managing products with Price Books
+- Setting user access using Role Hierarchies
+
 
 ### Project Management
 - Trello
