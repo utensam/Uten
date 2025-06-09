@@ -20,21 +20,6 @@ I'm a passionate Salesforce Administrator with a growing skill set in CRM platfo
 - Zoho CRM
 - Slack
 - Pipedrive
-## 📸 Projects
-
-### Salesforce Admin onboarding of OJ industry to Sales Cloud Project
-
-![Company Info Screenshot](https://github.com/utensam/Uten/blob/main/Salesforce-Project-Company-Information.png)
-![Company Price Book Screenshot](https://github.com/utensam/Uten/blob/main/Salesforce-Project-Price%20B.png)
-![Company Dashboards Screenshot](https://github.com/utensam/Uten/blob/main/Salesforce-project-Darshb.png)
-https://github.com/utensam/Uten/blob/main/Salesforce-Project-Flowb.png
-This showcases:
-- Setting up company info
-- Creating dashboards for sales insights
-- Building automation using Flow Builder
-- Managing products with Price Books
-- Setting user access using Role Hierarchies
-
 
 ### Project Management
 - Trello
@@ -56,6 +41,20 @@ This showcases:
 - Apex basics (for automation)
 - Git & GitHub (version control for admins)
 
+## 📸 Projects
+### Salesforce Admin onboarding of OJ industry to Sales Cloud Project
+
+![Company Info Screenshot](https://github.com/utensam/Uten/blob/main/Salesforce-Project-Company-Information.png)
+![Company Price Book Screenshot](https://github.com/utensam/Uten/blob/main/Salesforce-Project-Price%20B.png)
+![Company Dashboards Screenshot](https://github.com/utensam/Uten/blob/main/Salesforce-project-Darshb.png)
+![Company Flow Screenshot](https://github.com/utensam/Uten/blob/main/Salesforce-Project-Flowb.png)
+![Company Roles Screenshot](https://github.com/utensam/Uten/blob/main/Salesforce-Project-Roles.png)
+This showcases:
+- Setting up company info
+- Creating dashboards for sales insights
+- Building automation using Flow Builder
+- Managing products with Price Books
+- Setting user access using Role Hierarchies
 ---
 
 ## Let's Connect
