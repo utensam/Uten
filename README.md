@@ -36,11 +36,6 @@ I'm a passionate Salesforce Administrator with a growing skill set in CRM platfo
 
 ---
 
-## Currently Learning
-- Salesforce Flow Builder & Reports
-- Apex basics (for automation)
-- Git & GitHub (version control for admins)
-
 ## 📸 Projects
 ### Salesforce Admin onboarding of OJ industry to Sales Cloud Project
 
