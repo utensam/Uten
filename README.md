@@ -22,11 +22,11 @@ I'm a passionate Salesforce Administrator with a growing skill set in CRM platfo
 - Pipedrive
 ## 📸 Projects
 
-### Salesforce Admin Practice Project
+### Salesforce Admin onboarding of OJ industry to Sales Cloud Project
 
 ![Company Info Screenshot](https://github.com/utensam/Uten/blob/main/Salesforce-Project-Company-Information.png)
-
-This project showcases my practice with:
+![Company Price Book Screenshot](https://github.com/utensam/Uten/blob/main/Salesforce-Project-Price%20B.png)
+This showcases:
 - Setting up company info
 - Creating dashboards for sales insights
 - Building automation using Flow Builder
