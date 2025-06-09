@@ -20,6 +20,7 @@ I'm a passionate Salesforce Administrator with a growing skill set in CRM platfo
 - Zoho CRM
 - Slack
 - Pipedrive
+https://github.com/utensam/Uten/blob/main/Salesforce-Project-Company-Information.png
 
 ### Project Management
 - Trello
